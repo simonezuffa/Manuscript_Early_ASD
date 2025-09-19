@@ -1,0 +1,115 @@
+SampleID,Order,antibiotics_last_2weeks,attend_daycare,breastfed_morethan1month,constipation_2wk,csectionbirth,currently_breastfeeding,diarrhea_2wk,dx,ethnicity,gender,gestationalagebirth,host_age,household_income_code,pets_at_home,probiotics_2wks,race,sex
+364175217,110,0,0,1,0,0,1,0,TD,Non-Hispanic,M,40,28,MID,1,0,White,male
+364309120,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+364309128,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+364309129,52,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+364309131,39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+364309147,27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+364309155,83,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+364309159,44,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+364309162,90,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+364309163,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+364309167,17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+364309182,62,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+364309183,67,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+364309200,76,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+364309201,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+364309207,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+364417398,54,0,0,1,0,0,0,1,ASD,Hispanic or Latino,M,38,16,LOW,1,0,White,male
+364417399,68,0,1,1,0,0,0,1,ASD,Hispanic or Latino,F,41,26,LOW,1,0,More than one race,female
+364417400,87,1,1,1,0,0,0,0,ASD,Hispanic or Latino,M,38,28,MID,1,0,White,male
+364417401,29,0,NA,1,0,0,1,0,ASD,Hispanic or Latino,F,39,26,MID,0,0,Unknown or not reported,female
+364417406,104,0,0,1,0,0,0,0,ASD,Hispanic or Latino,M,37,27,MID,0,0,More than one race,male
+364417407,102,0,0,1,0,1,0,0,ASD,Hispanic or Latino,M,38,31,LOW,1,0,White,male
+364417408,32,0,0,1,0,0,0,0,TD,Non-Hispanic,F,38,20,MID,1,0,More Than One Race,female
+364417409,100,0,0,1,0,0,0,0,ASD,Hispanic or Latino,M,39,21,LOW,0,0,Unknown or not reported,male
+364417414,86,0,0,1,1,0,0,0,ASD,Not Hispanic or Latino,M,38,14,LOW,1,1,More than one race,male
+364417415,23,1,1,0,0,1,0,0,ASD,Hispanic or Latino,M,35,30,MID,1,1,More Than One Race,male
+364417416,9,0,0,1,0,1,0,0,ASD,Not Hispanic or Latino,F,38,35,NA,0,0,More than one race,female
+364417422,43,0,0,1,0,0,0,0,TD,Hispanic or Latino,M,36,18,LOW,0,0,Unknown or not reported,male
+364417423,88,0,0,1,1,1,0,0,ASD,Not Hispanic or Latino,M,32,29,MID,1,0,White,male
+364417424,37,0,1,1,0,1,0,0,ASD,Not Hispanic or Latino,F,32,26,MID,1,0,More than one race,female
+364417432,66,1,0,1,0,1,0,0,ASD,Hispanic or Latino,M,34,29,LOW,0,0,White,male
+364419225,22,0,0,1,0,NA,0,0,ASD,Hispanic or Latino,F,33,25,NA,1,0,White,female
+364419226,89,0,1,1,1,1,0,0,TD,Non-Hispanic,F,36,30,HIGH,1,0,Asian,female
+364419227,78,0,1,1,0,1,0,0,TD,Non-Hispanic,F,39,18,HIGH,1,0,White,female
+364419228,57,0,1,1,0,0,0,0,ASD,Not Hispanic or Latino,F,40,22,HIGH,1,0,White,female
+364419229,21,0,0,1,0,0,0,0,ASD,Not Hispanic or Latino,F,40,18,MID,1,0,Asian,female
+364419233,55,0,0,1,0,0,1,0,ASD,Non-Hispanic,M,40,17,MID,1,0,Asian,male
+364419234,13,0,1,1,0,1,0,0,ASD,Hispanic or Latino,F,34,22,MID,1,0,Black or African American,female
+364419235,28,0,0,1,1,0,0,0,ASD,Not Hispanic or Latino,M,40,32,MID,1,0,White,male
+364419236,41,0,0,1,0,0,0,0,ASD,Unknown or not reported,F,39,29,MID,1,0,Unknown or not reported,female
+364419237,111,0,0,1,1,0,1,0,ASD,Hispanic or Latino,F,38,24,MID,0,1,White,female
+364419241,16,0,0,0,0,0,0,0,ASD,Hispanic or Latino,F,31,26,NA,1,0,White,female
+364419242,107,0,0,1,1,0,0,0,TD,Non-Hispanic,F,40,20,HIGH,1,0,White,female
+364419243,81,0,0,1,0,0,0,0,ASD,Not Hispanic or Latino,M,39,29,MID,1,0,White,male
+364419244,5,1,0,1,0,0,0,0,ASD,Hispanic or Latino,M,39,24,LOW,1,0,White,male
+364419245,92,0,0,1,0,0,0,0,ASD,Hispanic or Latino,M,40,27,MID,1,0,More than one race,male
+364419249,33,0,0,1,0,1,0,0,ASD,Hispanic or Latino,M,37,24,MID,0,0,White,male
+364419250,69,0,1,1,0,0,0,0,ASD,Hispanic or Latino,F,41,34,LOW,1,0,White,female
+364419251,105,0,0,1,0,0,0,0,ASD,Not Hispanic or Latino,F,39,21,HIGH,1,0,White,female
+364419252,59,0,1,1,0,0,0,0,ASD,Hispanic or Latino,F,39,23,MID,1,0,White,female
+364419253,56,0,1,1,0,0,1,0,ASD,Hispanic or Latino,M,39,29,LOW,0,0,Black or African American,male
+364419257,40,0,1,1,0,0,0,0,TD,Non-Hispanic,M,35,20,MID,1,0,White,male
+364419259,98,0,0,1,1,1,0,0,ASD,Hispanic or Latino,M,35,30,MID,0,0,White,male
+364419260,31,0,0,1,0,1,0,0,ASD,Non-Hispanic,M,40,32,NA,0,0,Asian,male
+364419261,58,0,0,1,0,0,0,0,ASD,Hispanic or Latino,M,39,35,LOW,0,1,White,male
+364419264,79,0,0,1,0,0,0,0,ASD,Not Hispanic or Latino,M,38,30,LOW,0,0,Unknown or not reported,male
+364419265,11,0,0,1,0,1,0,0,ASD,Non-Hispanic,M,38,20,NA,1,1,White,male
+364419266,99,0,0,1,0,0,0,0,TD,Non-Hispanic,M,41,33,MID,1,0,White,male
+364419267,15,0,1,1,0,0,0,0,ASD,Non-Hispanic,F,38,33,MID,0,0,More Than One Race,female
+364419268,42,0,0,1,0,0,1,0,TD,Non-Hispanic,F,37,14,NA,0,1,More Than One Race,female
+364419269,80,0,0,1,0,0,0,0,ASD,Hispanic or Latino,M,39,31,MID,1,0,White,male
+364419272,103,0,0,1,0,0,0,0,ASD,Hispanic or Latino,M,35,35,MID,1,0,White,male
+364419273,4,0,1,0,0,0,0,0,ASD,Non-Hispanic,M,38,30,LOW,0,0,American Indian or Alaska Native,male
+364419274,51,0,1,1,0,0,0,0,TD,Non-Hispanic,F,37,27,MID,1,1,White,female
+364419275,101,1,1,1,0,0,1,0,TD,Hispanic or Latino,M,40,23,MID,1,0,More Than One Race,male
+364419276,96,0,0,1,0,0,0,0,ASD,Hispanic or Latino,M,40,20,MID,0,0,More Than One Race,male
+364419277,30,0,1,1,0,0,0,1,ASD,Hispanic or Latino,M,40,14,LOW,1,0,White,male
+364419280,97,0,0,0,0,1,0,0,ASD,Non-Hispanic,M,40,22,MID,1,0,White,male
+364419281,64,0,0,1,0,0,0,0,ASD,Non-Hispanic,M,39,24,MID,1,1,White,male
+364419282,63,0,1,0,0,1,0,0,ASD,Non-Hispanic,M,40,26,HIGH,0,0,More Than One Race,male
+364419283,45,1,1,1,0,0,0,0,TD,Non-Hispanic,F,41,24,MID,1,0,White,female
+364419284,73,0,0,1,0,0,0,0,ASD,Hispanic or Latino,M,40,24,MID,1,0,White,male
+364419285,14,0,1,0,0,0,0,0,ASD,Not Hispanic or Latino,F,40,28,MID,0,0,Black or African American,female
+364419288,46,0,1,0,0,1,0,0,TD,Not Hispanic or Latino,M,37,32,HIGH,1,0,White,male
+364419289,109,0,1,1,0,NA,0,0,ASD,Hispanic or Latino,M,39,28,NA,0,0,More Than One Race,male
+364419290,106,0,1,1,0,0,0,0,ASD,Hispanic or Latino,M,38,27,MID,1,0,Unknown,male
+364419291,77,0,0,0,0,0,0,0,ASD,Hispanic or Latino,M,39,26,MID,1,0,White,male
+364419292,18,0,0,1,0,0,0,0,ASD,Hispanic or Latino,M,39,16,LOW,0,0,White,male
+364419293,61,0,0,1,1,0,0,0,ASD,Not Hispanic or Latino,M,39,24,MID,1,0,More than one race,male
+364419296,85,0,0,1,0,0,0,0,ASD,Not Hispanic or Latino,M,38,34,MID,0,0,Asian,male
+364419297,8,0,1,1,0,0,0,0,TD,Non-Hispanic,F,40,29,HIGH,NA,0,More Than One Race,female
+364419298,36,0,0,1,0,0,0,0,TD,Non-Hispanic,F,41,19,NA,0,1,White,female
+364419299,84,0,1,1,0,1,0,0,ASD,Non-Hispanic,M,38,23,HIGH,1,0,White,male
+364419300,74,0,1,1,0,0,0,0,TD,Non-Hispanic,M,38,29,HIGH,0,0,White,male
+364419301,34,0,1,1,0,0,0,0,TD,Hispanic or Latino,M,40,26,MID,1,0,White,male
+364419304,82,1,1,1,0,0,0,0,ASD,Non-Hispanic,M,40,22,HIGH,0,0,White,male
+364419305,108,0,0,1,0,0,0,0,ASD,Unknown,M,39,25,LOW,1,0,Unknown,male
+364419306,60,0,0,1,0,0,0,0,ASD,Hispanic or Latino,M,39,27,NA,0,0,Unknown,male
+364419307,53,0,0,1,0,0,0,0,ASD,Hispanic or Latino,M,37,33,LOW,1,0,More than one race,male
+364419308,12,0,NA,0,0,0,0,0,ASD,Unknown,F,41,20,MID,0,0,Unknown,female
+364419309,75,0,0,1,1,1,0,1,ASD,Hispanic or Latino,M,39,25,NA,0,0,More than one race,male
+364419313,10,0,0,1,0,0,0,0,ASD,Hispanic or Latino,F,38,29,MID,0,1,Asian,female
+364419314,50,0,1,1,0,0,1,0,TD,Non-Hispanic,F,41,28,NA,0,0,White,female
+364419315,91,0,1,0,0,1,0,0,TD,Not Hispanic or Latino,F,40,32,HIGH,1,0,More than one race,female
+364419316,65,0,0,1,0,0,0,0,TD,Not Hispanic or Latino,M,41,22,HIGH,0,0,White,male
+364419317,38,0,0,1,0,0,0,0,ASD,Hispanic or Latino,M,40,19,NA,1,0,White,male
+PASD_Blank_1,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+PASD_Blank_2,47,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+PASD_Blank_3,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+PASD_Blank_4,93,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+PASD_Blank_Prerun_0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+PASD_QC_Pool_0,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+PASD_QC6mix_0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+PASD_QC6mix_1,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+PASD_QC6mix_2,48,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+PASD_QC6mix_3,71,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+PASD_QC6mix_4,94,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+PASD_QC6mix_end,112,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+PASD_QCpool_1,26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+PASD_QCpool_2,49,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+PASD_QCpool_3,72,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+PASD_QCpool_4,95,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+PASD_QCpool_end,113,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+wash_PierceASD,114,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
